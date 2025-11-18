@@ -1,0 +1,1 @@
+# react-spa-protected-dashboard
